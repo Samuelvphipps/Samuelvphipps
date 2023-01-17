@@ -1,6 +1,6 @@
 Hi!
 
-My name is Sam and I am currently a student at PRIME academy. I am learning a lot of new material and facing the challenges that come along with it. After Prime I will begin my career as a software engineer, where my learning and the challenges will only continue! For that, I am incredibly excited as the challenges are what makes this such a rewarding career. I am really excited to get started in this field!
+My name is Sam and I am a software developer! My experiences so far have been focused in Javascript(node, react, jquery) and Postgres. I am currently learning Java and am excited to implement AWS into more projects. If you have any questions please contact me at samuel.v.phipps@gmail.com 
 
 Sam
 
